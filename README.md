@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @edgroell
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him/his
 - 👀 I’m interested in AI, FinTech & Data Privacy
-- 🌱 I’m currently learning AI Engineering
-- 💞️ I’m looking to collaborate on AI FinTech Stories 🧠💶🚀
-- 📫 How to reach me: email@edgroell.com or check www.edgroell.com
+- 🌱 I’m currently learning to become a FinTech AI Engineering
+- 💞️ I’m looking to collaborate on challenges in FinTech & how AI could help solve these 🧠💶🚀
+- 📫 How to reach me: drop me a message at email@edgroell.com or check my website at www.edgroell.com
 - ⚡ Fun fact: I have a newsletter you can <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7328509147346341889">subscribe to here</a> 💡
 
 <!---
