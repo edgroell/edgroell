@@ -3,7 +3,7 @@
 - 👀 I’m interested in AI, FinTech & Data Privacy
 - 🌱 I’m currently learning to become a FinTech AI Engineer
 - 💞️ I’m looking to collaborate on challenges in FinTech by applying AI to solve these 🧠💶🚀
-- 📫 How to reach me: drop me a message at email@edgroell.com or check my website at www.edgroell.com
+- 📫 How to reach me: drop me a message at email@edgroell.com or check my website at <a href="https://www.edgroell.com">www.edgroell.com</a>
 - ⚡ Fun fact: I have a newsletter you can <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7328509147346341889">subscribe to here</a> — Guess what I talk about?! 💡
 
 <!---
